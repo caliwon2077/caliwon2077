@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Song Kai — AI, Digital Twin, Product</title>
+<desc id="desc">Connecting technology and business. A portfolio of AI products, digital twins and interactive experiences.</desc>
+<rect width="1200" height="320" rx="24" fill="#f7f7f5"/>
+<g fill="none" stroke="#d8d2d9" stroke-width="1">
+<path d="M860 0v320M940 0v320M1020 0v320M1100 0v320M780 80h420M780 160h420M780 240h420" opacity=".4"/>
+<circle cx="1010" cy="160" r="114"/><ellipse cx="1010" cy="160" rx="114" ry="48" transform="rotate(-35 1010 160)"/>
+<path d="M1010 82l67 39v78l-67 39-67-39v-78zM943 121l67 39 67-39M1010 160v78"/>
+</g>
+<circle cx="1010" cy="160" r="7" fill="#1b0624"/>
+<circle cx="914" cy="98" r="5" fill="#1b0624"/><circle cx="1108" cy="216" r="5" fill="#1b0624"/>
+<rect x="56" y="46" width="191" height="28" rx="14" fill="#edece7"/>
+<text x="72" y="65" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="11" letter-spacing="1.4" fill="#766a7c">PRODUCT / EXPERIENCE / AI</text>
+<text x="54" y="164" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="76" font-weight="500" letter-spacing="-4" fill="#1b0624">Song Kai.</text>
+<text x="58" y="210" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="21" letter-spacing=".2" fill="#1b0624">AI products. Digital twins. Real-world value.</text>
+<path d="M58 251h660" stroke="#d8d2d9"/>
+<text x="58" y="281" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="11" letter-spacing="1.6" fill="#766a7c">UNDERSTAND THE PROBLEM. BUILD SOMETHING USEFUL.</text>
+</svg>
