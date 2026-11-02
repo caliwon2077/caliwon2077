@@ -53,59 +53,29 @@
 
 ## 项目与实践
 
-以下收录我的全部公开项目仓库；Fork 项目单独标明来源。
-
-### 综合报价系统 · MyProjects
-
-面向软件项目需求分析与功能清单报价的 **Codex Skill + 静态演示页面**。
-
-- 从需求文档、会议记录或现有报价中梳理范围，拆解功能、工种、人时与采购项。
-- 生成含可调整公式的单工作表 Excel 报价清单，统一人工、采购和税费口径。
-- 覆盖互联网、工业、科研软件，以及 SaaS、PaaS 等需求场景。
-
-`需求分析` `AI 工作流` `报价工具` `Excel`
-
-[查看源码](https://github.com/caliwon2077/MyProjects) · [在线体验](https://caliwon2077.github.io/MyProjects/) · [技能说明](https://github.com/caliwon2077/MyProjects/tree/main/skills/comprehensive-quotation)
-
-<sub>浏览器演示在本地处理文档，未接入模型；智能需求分析通过技能工作流完成。</sub>
-
-### Willowbrook · 猫舍互动展示
-
-一个围绕滚动探索设计的互动单页，结合开场逐帧动画、猫咪明信片、展览、到访地图与菜单信息。
-
-- 用动画、内容节奏和视觉表达组织浏览体验。
-- 通过静态页面与 GitHub Pages 展示完整交互流程。
-
-`交互体验` `逐帧动画` `JavaScript` `Web 展示`
-
-[查看源码](https://github.com/caliwon2077/willowbrook-cattery) · [在线体验](https://caliwon2077.github.io/willowbrook-cattery/)
-
-<sub>展示页面中的门店资料和地图位置为示意内容。</sub>
-
-### 宋凯 · 个人网站
-
-记录个人介绍、产品探索与思考的双风格网站，支持**极客版 / 水彩版**切换。
-
-- 原生 HTML、CSS、JavaScript 实现，包含项目筛选、详情弹窗及邮箱联系入口。
-- 水彩版采用暖白底与日落插画；极客版保留深色技术风格。
-- 通过 GitHub Pages 发布，源代码与设计素材均保存在仓库中。
-
-`个人品牌` `响应式界面` `HTML / CSS / JavaScript` `GitHub Pages`
-
-[查看源码](https://github.com/caliwon2077/caliwon2077.github.io) · [水彩版](https://caliwon2077.github.io/editorial.html) · [极客版](https://caliwon2077.github.io/)
-
-<sub>网站内 Nexus、Knowhere、Flow 卡片为概念示例，不作为已交付项目经历。</sub>
-
-### 开源 Fork
-
-| 仓库 | 内容 | 上游来源 |
-| --- | --- | --- |
-| [pixelfx_effect](https://github.com/caliwon2077/pixelfx_effect) | 像素特效、动画、精灵图导出与生成技能；适用于交互及游戏视觉探索。 | [patch-gg/pixelfx](https://github.com/patch-gg/pixelfx) |
-| [matplotlib](https://github.com/caliwon2077/matplotlib) | Python 绘图与数据可视化项目的 Fork。 | [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) |
-
-<sub>以上为开源项目的 Fork，原创项目归属见上游仓库。</sub>
-
-[浏览全部公开仓库 →](https://github.com/caliwon2077?tab=repositories)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/caliwon2077/matplotlib">matplotlib</a> <sub>Public</sub></h3>
+      <p>Forked from <a href="https://github.com/matplotlib/matplotlib">matplotlib/matplotlib</a></p>
+      <p>matplotlib: plotting with Python</p>
+      <p><br>🔵 Python</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/caliwon2077/pixelfx_effect">pixelfx_effect</a> <sub>Public</sub></h3>
+      <p>Forked from <a href="https://github.com/patch-gg/pixelfx">patch-gg/pixelfx</a></p>
+      <p>244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.</p>
+      <p>🟡 JavaScript</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/caliwon2077/willowbrook-cattery">willowbrook-cattery</a> <sub>Public</sub></h3>
+      <p>Willowbrook 猫舍互动单页展示 · Interactive cattery landing page</p>
+      <p>🟡 JavaScript</p>
+    </td>
+  </tr>
+</table>
 
 ## 文章与思考
 
