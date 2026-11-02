@@ -1,10 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/profile-light.svg">
-  <img alt="Song Kai — AI products, digital twins, real-world value" src="assets/profile-light.svg" width="100%">
-</picture>
-
-<h1 align="center">宋凯 · Song Kai</h1>
+<img alt="Song Kai — AI products, digital twins, real-world value" src="assets/profile-banner.png" width="100%">
 
 <p align="center"><strong>AI 产品经理 · 数字孪生与 AI 应用实践者</strong></p>
 <p align="center">连接技术与业务，让复杂的想法成为真正可用的产品。</p>
