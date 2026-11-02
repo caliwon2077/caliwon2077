@@ -1,8 +1,4 @@
 <img alt="Song Kai — AI products, digital twins, real-world value" src="assets/profile-banner.png" width="100%">
-
-<p align="center"><strong>AI 产品经理 · 数字孪生与 AI 应用实践者</strong></p>
-<p align="center">连接技术与业务，让复杂的想法成为真正可用的产品。</p>
-
 <p align="center">
   <a href="https://caliwon2077.github.io/editorial.html">个人网站</a> ·
   <a href="#项目与实践">项目与实践</a> ·
