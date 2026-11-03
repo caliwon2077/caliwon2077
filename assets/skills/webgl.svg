@@ -1,7 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="107" height="28" viewBox="0 0 107 28" role="img" aria-labelledby="title">
-<title id="title">WebGL</title>
-<rect width="45" height="28" fill="#555555"/>
-<rect x="45" width="62" height="28" fill="#5075B9"/>
-<g fill="#FFFFFF" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,PingFang SC,Microsoft YaHei,sans-serif" font-size="15" font-weight="400" text-anchor="middle">
-<text x="22.5" y="19">Web</text>
-<text x="76" y="19">WebGL</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="74" height="35" viewBox="0 0 74 35" role="img" aria-labelledby="title">
+  <title id="title">WebGL</title>
+  <rect x="0.5" y="0.5" width="69" height="30" rx="7.5" fill="#F5F3F6" stroke="#E5DFE9"/>
+  <text x="35" y="20.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="14" font-weight="500" fill="#352B3D">WebGL</text>
+</svg>
