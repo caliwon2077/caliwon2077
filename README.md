@@ -30,33 +30,33 @@
 **三维技术关注**
 
 <p>
-  <img src="assets/skills/unity.svg" alt="Unity" height="34">
-  <img src="assets/skills/unreal-engine.svg" alt="Unreal Engine" height="34">
-  <img src="assets/skills/threejs.svg" alt="Three.js" height="34">
-  <img src="assets/skills/webgl.svg" alt="WebGL" height="34">
+  <img src="assets/skills/unity.svg" alt="Unity" height="28">
+  <img src="assets/skills/unreal-engine.svg" alt="Unreal Engine" height="28">
+  <img src="assets/skills/threejs.svg" alt="Three.js" height="28">
+  <img src="assets/skills/webgl.svg" alt="WebGL" height="28">
 </p>
 
 **AI 应用探索**
 
 <p>
-  <img src="assets/skills/llm.svg" alt="LLM" height="34">
-  <img src="assets/skills/rag.svg" alt="RAG" height="34">
-  <img src="assets/skills/ai-agent.svg" alt="AI Agent" height="34">
-  <img src="assets/skills/knowledge-base.svg" alt="知识库" height="34">
-  <img src="assets/skills/ai-workflow.svg" alt="AI 工作流" height="34">
-  <img src="assets/skills/ai-assisted-development.svg" alt="AI 辅助开发" height="34">
+  <img src="assets/skills/llm.svg" alt="LLM" height="28">
+  <img src="assets/skills/rag.svg" alt="RAG" height="28">
+  <img src="assets/skills/ai-agent.svg" alt="AI Agent" height="28">
+  <img src="assets/skills/knowledge-base.svg" alt="知识库" height="28">
+  <img src="assets/skills/ai-workflow.svg" alt="AI 工作流" height="28">
+  <img src="assets/skills/ai-assisted-development.svg" alt="AI 辅助开发" height="28">
 </p>
 
 **场景与方法**
 
 <p>
-  <img src="assets/skills/industrial-digitalization.svg" alt="工业数字化" height="34">
-  <img src="assets/skills/digital-twin.svg" alt="数字孪生" height="34">
-  <img src="assets/skills/virtual-simulation.svg" alt="虚拟仿真" height="34">
-  <img src="assets/skills/requirements-analysis.svg" alt="需求分析" height="34">
-  <img src="assets/skills/interaction-design.svg" alt="交互设计" height="34">
-  <img src="assets/skills/product-planning.svg" alt="产品规划" height="34">
-  <img src="assets/skills/project-delivery.svg" alt="项目交付" height="34">
+  <img src="assets/skills/industrial-digitalization.svg" alt="工业数字化" height="28">
+  <img src="assets/skills/digital-twin.svg" alt="数字孪生" height="28">
+  <img src="assets/skills/virtual-simulation.svg" alt="虚拟仿真" height="28">
+  <img src="assets/skills/requirements-analysis.svg" alt="需求分析" height="28">
+  <img src="assets/skills/interaction-design.svg" alt="交互设计" height="28">
+  <img src="assets/skills/product-planning.svg" alt="产品规划" height="28">
+  <img src="assets/skills/project-delivery.svg" alt="项目交付" height="28">
 </p>
 
 持续探索三维技术、人工智能与产品设计的交叉领域，研究如何将 AI 与传统业务系统有效结合。
