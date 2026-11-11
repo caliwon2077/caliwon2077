@@ -1,4 +1,4 @@
-<img alt="Song Kai — AI products, digital twins, real-world value" src="assets/profile-banner.png" width="100%">
+<img alt="Song Kai — AI products, digital twins, real-world value" src="assets/profile-banner-optimized.webp" width="100%">
 <p align="center">
   <a href="https://caliwon2077.github.io/editorial.html">个人网站</a> ·
   <a href="#项目与实践">项目与实践</a> ·
