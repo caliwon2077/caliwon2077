@@ -26,10 +26,10 @@
 从 CAD 图纸、功能四视图与 Blender 建模，到 Three.js / Unity / Unreal Engine 混合开发及部署交付：以 30 个工作日的模拟项目，展示多模型协作、并行依赖、Astra 深度推理、Token 成本与资源归档。
 
 <a href="https://caliwon2077.github.io/demos/digital-twin/">
-  <img src="https://caliwon2077.github.io/demos/digital-twin/preview.gif" alt="FLOW 数字孪生开发工作流动态预览，点击进入可交互的自动播放演示" width="100%">
+  <img src="https://caliwon2077.github.io/demos/digital-twin/preview-smooth-60fps.png" alt="FLOW 数字孪生工作流：3秒60fps连续预览，点击查看完整交互演示" width="100%">
 </a>
 
-[▶ 打开完整交互演示（自动播放）](https://caliwon2077.github.io/demos/digital-twin/) · [查看页面源码](https://github.com/caliwon2077/caliwon2077.github.io/blob/main/demos/digital-twin/index.html)
+[▶ 打开完整交互演示（90 秒自动播放）](https://caliwon2077.github.io/demos/digital-twin/) · [查看页面源码](https://github.com/caliwon2077/caliwon2077.github.io/blob/main/demos/digital-twin/index.html)
 
 <sub>演示原型：项目耗时、Token、费用、文件与模型配置均为模拟数据，不代表真实项目记录或厂商报价。</sub>
 <!-- FLOW-TWIN:END -->
